@@ -1,16 +1,16 @@
-## Java Ñ§Ï°Â·¾¶ºÍ±Ê¼Ç
+## Java å­¦ä¹ è·¯å¾„å’Œç¬”è®°
 
-¿ÉÄÜÊÇÈ«Íø×îÈ«µÄJavaÑ§Ï°±Ê¼Ç£º[JavaÑ§Ï°Ö®Â·](https://www.yuque.com/lius/java)
+å¯èƒ½æ˜¯å…¨ç½‘æœ€å…¨çš„Javaå­¦ä¹ ç¬”è®°ï¼š[Javaå­¦ä¹ ä¹‹è·¯](https://www.yuque.com/lius/java)
 
 
-## ÏîÄ¿ÓÃµ½µÄÈí¼ş°ü 
+## é¡¹ç›®ç”¨åˆ°çš„è½¯ä»¶åŒ… 
 
-Á´½Ó£ºhttps://pan.baidu.com/s/1Ej8KJ-wSX-y7_Kn-2ghhHA 
-ÌáÈ¡Âë£º0as8
+é“¾æ¥ï¼šhttps://pan.baidu.com/s/1Ej8KJ-wSX-y7_Kn-2ghhHA 
+æå–ç ï¼š0as8
 
-## ÏîÄ¿±Ê¼ÇÄÔÍ¼
+## é¡¹ç›®ç¬”è®°è„‘å›¾
 
-Á´½Ó£ºhttps://pan.baidu.com/s/1jyuF8tKS3Y-C-1lXlgnyLw 
-ÌáÈ¡Âë£º4jvr
+é“¾æ¥ï¼šhttps://pan.baidu.com/s/1jyuF8tKS3Y-C-1lXlgnyLw 
+æå–ç ï¼š4jvr
 
-×ª×Ô£ºhttps://github.com/liusCoding/springcloud-2020/edit/master/doc/readme.md
+è½¬è‡ªï¼šhttps://github.com/liusCoding/springcloud-2020/edit/master/doc/readme.md
